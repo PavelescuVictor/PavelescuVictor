@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Pavelescu Victor
+### Hi there 👋 I'm Victor Pavelescu
 
 <p align="center" style="margin: -20px 0 30px">
   &nbsp;&nbsp;
