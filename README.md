@@ -1,4 +1,18 @@
 ### Hi there 👋 I'm Pavelescu Victor
+
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pavelescuvictor/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://www.artstation.com/pavelescuvictor" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" alt="artstation" height="22px" width="22px" />
+  </a>
+</p>
  
 My personality traits fall into the guidelines of a kind and enthusiastic person putting passion into the projects that I'm working on. As a person I am always seeking new challenges, continuously trying to improve myself and eager to learn new technologies. Currently, I am a graduate of Babes Bolyai University with a degree in Mathematics and Computer Science, and I aspire to work in a challenging and dynamic environment that allows me to further develop myself working with a strong and dedicated team.
 
