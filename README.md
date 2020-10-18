@@ -11,3 +11,11 @@ Here are some ideas to get you started:
 <!-- - 📫 How to reach me -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: By analyzing the spectrum of light coming from different astronomical objects such as stars and planets and observing its pattern we can determine the chemical composition of those objects.
+
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
