@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Vue.js and testing using Jest, Mocha.
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about anything.
-<!-- - 📫 How to reach me -->
 - ⚡ Fun fact: By analyzing the spectrum of light coming from different astronomical objects such as stars and planets and observing its pattern we can determine the chemical composition of those objects.
 
 <div align="center">
