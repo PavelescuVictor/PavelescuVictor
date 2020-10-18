@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelescuVictor&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <small>Languages used in my public repos - big fan of Vue.js 😛</small>
   <br />
   <br />
 </div>
