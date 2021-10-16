@@ -11,9 +11,8 @@
   </a>
 </p>
  
-My personality traits fall into the guidelines of a kind and enthusiastic person putting passion into the projects that I'm working on. As a person I am always seeking new challenges, continuously trying to improve myself and eager to learn new technologies. Currently, I am a graduate of Babes Bolyai University with a degree in Mathematics and Computer Science, and I aspire to work in a challenging and dynamic environment that allows me to further develop myself working with a strong and dedicated team.
+My personality traits fall into the guidelines of a kind and enthusiastic person putting passion into the projects that I'm working on. As a person I am always seeking new challenges, continuously trying to improve myself and eager to learn new technologies.
 
-- 🔭 I’m currently working on personal projects and learning new web technologies.
 - 🌱 I’m currently learning React, Typescript, GraphQL, Unit Testing and Automation Testing
 - 👯 I’m looking to collaborate on web development projects.
 - 💬 Ask me about anything.
@@ -22,7 +21,7 @@ My personality traits fall into the guidelines of a kind and enthusiastic person
 <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelescuVictor&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
   <br />
-  <small>Languages used in my public repos - big fan of Vue.js 😛</small>
+  <small>Languages used in my public repos - big fan of Vue.js and React 😛</small>
   <br />
   <br />
 </div>
