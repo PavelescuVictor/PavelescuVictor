@@ -4,11 +4,11 @@ I'm Victor Pavelescu
 <p align="center" style="margin: -20px 0 30px">
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/pavelescuvictor/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40px" width="40px" />
   </a> 
   &nbsp;&nbsp;
   <a href="https://www.artstation.com/pavelescuvictor" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" alt="artstation" height="22px" width="22px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" alt="artstation" height="40px" width="40px" />
   </a>
 </p>
  
