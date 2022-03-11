@@ -24,7 +24,7 @@ My personality traits fall into the guidelines of a kind and enthusiastic person
   <img width="475px" src="https://github-readme-stats.vercel.app/api?username=PavelescuVictor&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30px" />
   <br />  
   <br />
-  <small>Languages used in my public repos - big fan of Vue.js and React 😛</small>
+  <small>^ Languages used in my public repos - big fan of React 😛</small>
   <br />
   <br />
 </div>
