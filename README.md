@@ -1,16 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Victor Pavelescu
-
-<p align="center" style="margin: -20px 0 30px">
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pavelescuvictor/" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40px" width="40px" />
-  </a> 
-  &nbsp;&nbsp;
-  <a href="https://www.artstation.com/pavelescuvictor" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" alt="artstation" height="40px" width="40px" />
-  </a>
-</p>
  
 My personality traits fall into the guidelines of a kind and enthusiastic person putting passion into the projects that I'm working on. As a person I am always seeking new challenges, continuously trying to improve myself and eager to learn new technologies.
 
@@ -33,3 +22,14 @@ My personality traits fall into the guidelines of a kind and enthusiastic person
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelescuVictor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   </div>
+  
+  <p align="center" style="margin: -20px 0 30px">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pavelescuvictor/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40px" width="40px" />
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://www.artstation.com/pavelescuvictor" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/artstation.svg" alt="artstation" height="40px" width="40px" />
+  </a>
+</p>
