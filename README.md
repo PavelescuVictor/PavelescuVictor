@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Victor Pavelescu
+### Hi there  <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+I'm Victor Pavelescu
 
 <p align="center" style="margin: -20px 0 30px">
   &nbsp;&nbsp;
@@ -19,9 +20,16 @@ My personality traits fall into the guidelines of a kind and enthusiastic person
 - ⚡ Fun fact: By analyzing the spectrum of light coming from different astronomical objects such as stars and planets and observing its pattern we can determine the chemical composition of those objects.
 
 <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelescuVictor&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavelescuVictor&layout=compact&hide_title=1&card_width=300&theme=tokyonight&hide_border=true&border_radius=30px&langs_count=10" alt="Top language used in my repos" />
+  <img width="475px" src="https://github-readme-stats.vercel.app/api?username=PavelescuVictor&show_icons=true&theme=tokyonight&hide_border=true&border_radius=30px" />
+  <br />  
   <br />
   <small>Languages used in my public repos - big fan of Vue.js and React 😛</small>
   <br />
   <br />
 </div>
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PavelescuVictor&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  </div>
