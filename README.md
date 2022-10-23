@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Victor Pavelescu
  
-My personality traits fall into the guidelines of a kind and enthusiastic person putting passion into the projects that I'm working on. As a person I am always seeking new challenges, continuously trying to improve myself and eager to learn new technologies.
+Enthusiastic and curious person putting passion into the projects that I'm working on.
 
 - 🌱 I’m currently learning Electron, Node.js, React, Typescript, GraphQL, Unit Testing and Automation Testing
 - 👯 I’m looking to collaborate on web development projects.
